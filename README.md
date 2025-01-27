@@ -1,5 +1,3 @@
-Here's a rough README for your repository:
-
 # ML_DL
 
 This repository contains various programs and projects related to Machine Learning and Deep Learning.
